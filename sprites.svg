@@ -820,15 +820,21 @@
       </g>
     </symbol>
     <symbol id="star" width="24" height="24" fill="none" viewBox="0 0 24 24">
-      <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m13.054 3.415 1.824 3.7a1.3 1.3 0 0 0 .98.713l4.081.593a1.3 1.3 0 0 1 .723 2.222L17.71 13.52a1.3 1.3 0 0 0-.374 1.154l.7 4.063a1.3 1.3 0 0 1-1.891 1.373l-3.648-1.918a1.3 1.3 0 0 0-1.213 0L7.636 20.11a1.3 1.3 0 0 1-1.891-1.373l.7-4.063a1.3 1.3 0 0 0-.375-1.154l-2.952-2.877a1.3 1.3 0 0 1 .723-2.222l4.08-.593a1.3 1.3 0 0 0 .98-.713l1.825-3.7a1.3 1.3 0 0 1 2.328 0Z"/>
+      <g id="star">
+        <path id="shape" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m13.054 3.415 1.824 3.7a1.3 1.3 0 0 0 .98.713l4.081.593a1.3 1.3 0 0 1 .723 2.222L17.71 13.52a1.3 1.3 0 0 0-.374 1.154l.7 4.063a1.3 1.3 0 0 1-1.891 1.373l-3.648-1.918a1.3 1.3 0 0 0-1.213 0L7.636 20.11a1.3 1.3 0 0 1-1.891-1.373l.7-4.063a1.3 1.3 0 0 0-.375-1.154l-2.952-2.877a1.3 1.3 0 0 1 .723-2.222l4.08-.593a1.3 1.3 0 0 0 .98-.713l1.825-3.7a1.3 1.3 0 0 1 2.328 0Z" vector-effect="non-scaling-stroke"/>
+      </g>
     </symbol>
     <symbol id="hand-heart" width="24" height="24" fill="none" viewBox="0 0 24 24">
-      <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 15.502v-4c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5v6.56c0 .62-.14 1.23-.42 1.79l-.58 1.16m-7-.01v-2.91c0-.43.14-.85.4-1.2l1.68-2.24c.59-.79 1.75-.87 2.45-.17.57.57.64 1.48.15 2.12l-1.05 1.4M5 15.502v-4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v6.56c0 .62.14 1.23.42 1.79l.58 1.16m7-.01v-2.91c0-.43-.14-.85-.4-1.2l-1.68-2.24c-.59-.79-1.75-.87-2.45-.17-.57.57-.64 1.48-.15 2.12l1.05 1.4m7.19-7.64c-.41.41-.97.64-1.56.64-.58 0-1.14-.23-1.56-.64l-2.63-2.64a2.764 2.764 0 1 1 3.91-3.91l.28.28.28-.28a2.764 2.764 0 1 1 3.91 3.91l-2.64 2.64h.01Z"/>
+      <g id="hand-heart">
+        <path id="Vector" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 15.502v-4c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5v6.56c0 .62-.14 1.23-.42 1.79l-.58 1.16m-7-.01v-2.91c0-.43.14-.85.4-1.2l1.68-2.24c.59-.79 1.75-.87 2.45-.17.57.57.64 1.48.15 2.12l-1.05 1.4M5 15.502v-4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v6.56c0 .62.14 1.23.42 1.79l.58 1.16m7-.01v-2.91c0-.43-.14-.85-.4-1.2l-1.68-2.24c-.59-.79-1.75-.87-2.45-.17-.57.57-.64 1.48-.15 2.12l1.05 1.4m7.19-7.64c-.41.41-.97.64-1.56.64-.58 0-1.14-.23-1.56-.64l-2.63-2.64a2.764 2.764 0 1 1 3.91-3.91l.28.28.28-.28a2.764 2.764 0 1 1 3.91 3.91l-2.64 2.64h.01Z" vector-effect="non-scaling-stroke"/>
+      </g>
     </symbol>
     <symbol id="building" width="24" height="24" fill="none" viewBox="0 0 24 24">
-      <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21.751 21h-20M10 16v5m7-11h3a1 1 0 0 1 1 1v10h-4V10ZM6 16h8v5H6v-5Z"/>
-      <path fill="#000" d="M17 21v.75h.75V21H17ZM3 21h-.75v.75H3V21Zm3 0v.75h.75V21H6Zm8 0h-.75v.75H14V21Zm0-5h.75a.75.75 0 0 0-.75-.75V16Zm-8 0v-.75a.75.75 0 0 0-.75.75H6ZM4 4.75h12v-1.5H4v1.5ZM16.25 5v16h1.5V5h-1.5ZM3.75 21V5h-1.5v16h1.5ZM6 20.25H3v1.5h3v-1.5Zm11 0h-3v1.5h3v-1.5Zm-2.25.75v-5h-1.5v5h1.5ZM14 15.25H6v1.5h8v-1.5ZM5.25 16v5h1.5v-5h-1.5ZM16 4.75a.25.25 0 0 1 .25.25h1.5A1.75 1.75 0 0 0 16 3.25v1.5ZM4 3.25A1.75 1.75 0 0 0 2.25 5h1.5A.25.25 0 0 1 4 4.75v-1.5Z"/>
-      <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7 12h6M7 8h6"/>
+      <g id="building">
+        <path id="Vector" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21.751 21h-20M10 16v5m7-11h3a1 1 0 0 1 1 1v10h-4V10ZM6 16h8v5H6v-5Z" vector-effect="non-scaling-stroke"/>
+        <path id="Shape" fill="currentColor" d="M17 21v.75h.75V21H17ZM3 21h-.75v.75H3V21Zm3 0v.75h.75V21H6Zm8 0h-.75v.75H14V21Zm0-5h.75a.75.75 0 0 0-.75-.75V16Zm-8 0v-.75a.75.75 0 0 0-.75.75H6ZM4 4.75h12v-1.5H4v1.5ZM16.25 5v16h1.5V5h-1.5ZM3.75 21V5h-1.5v16h1.5ZM6 20.25H3v1.5h3v-1.5Zm11 0h-3v1.5h3v-1.5Zm-2.25.75v-5h-1.5v5h1.5ZM14 15.25H6v1.5h8v-1.5ZM5.25 16v5h1.5v-5h-1.5ZM16 4.75a.25.25 0 0 1 .25.25h1.5A1.75 1.75 0 0 0 16 3.25v1.5ZM4 3.25A1.75 1.75 0 0 0 2.25 5h1.5A.25.25 0 0 1 4 4.75v-1.5Z"/>
+        <path id="Vector_2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7 12h6M7 8h6" vector-effect="non-scaling-stroke"/>
+      </g>
     </symbol>
   </defs>
 </svg>
