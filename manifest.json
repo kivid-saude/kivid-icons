@@ -610,5 +610,13 @@
   "building": {
     "width": 24,
     "height": 24
+  },
+  "close-circle-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "check-circle-filled": {
+    "width": 24,
+    "height": 24
   }
 }
