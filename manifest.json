@@ -718,5 +718,9 @@
   "search-heart-filled": {
     "width": 24,
     "height": 24
+  },
+  "pay-circle-filled": {
+    "width": 24,
+    "height": 24
   }
 }
