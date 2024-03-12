@@ -722,5 +722,13 @@
   "pay-circle-filled": {
     "width": 24,
     "height": 24
+  },
+  "bars-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "check-circle-filled": {
+    "width": 24,
+    "height": 24
   }
 }
