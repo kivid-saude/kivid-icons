@@ -730,5 +730,89 @@
   "check-circle-filled": {
     "width": 24,
     "height": 24
+  },
+  "people-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "setting-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "star-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "security-heart-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "security-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "relation-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "note-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "heart-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "heart-check-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "hand-heart-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "family-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "doc-list-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "clipboard-check-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "chatbubble-ellipses-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "chatbox-ellipses-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "chart-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "calendar-clear-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "bulb-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "building-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "alert-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "affiliate-filled": {
+    "width": 24,
+    "height": 24
   }
 }
