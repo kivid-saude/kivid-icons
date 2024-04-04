@@ -1169,7 +1169,6 @@
     </symbol>
     <symbol id="minus" fill="none" viewBox="0 0 24 24">
       <g id="minus">
-        <circle id="base_color" cx="12" cy="12.002" r="12" fill="#fff"/>
         <path id="icon" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7.8 12.002h8.4" vector-effect="non-scaling-stroke"/>
       </g>
     </symbol>
