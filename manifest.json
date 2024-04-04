@@ -822,5 +822,13 @@
   "affiliate-filled": {
     "width": 24,
     "height": 24
+  },
+  "info": {
+    "width": 24,
+    "height": 24
+  },
+  "minus": {
+    "width": 24,
+    "height": 24
   }
 }

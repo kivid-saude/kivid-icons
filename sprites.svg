@@ -727,16 +727,16 @@
     </symbol>
     <symbol id="pill" fill="none" viewBox="0 0 24 24">
       <g id="pill">
-        <path id="Shape" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m15.568 15.505 1.94-1.94c.433-.432 1.022-1.024 1.455-1.457a5.308 5.308 0 1 0-7.452-7.45c-.432.43-1.023 1.024-1.455 1.454l-1.94 1.941" vector-effect="non-scaling-stroke"/>
-        <path id="Shape_2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.047 17.508c.26.701.666 1.341 1.188 1.878a5.38 5.38 0 0 0 6.217.92c.665-.344 1.176-.863 1.72-1.405l1.455-1.456 1.94-1.94-7.451-7.452-1.94 1.94c-.434.431-1.023 1.024-1.456 1.455-.554.553-1.063 1.055-1.408 1.72a5.371 5.371 0 0 0-.265 4.34Z" vector-effect="non-scaling-stroke"/>
-        <path id="Shape_3" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11.641 8.267s1.38-1.4 1.711-1.73l.51-.51a2.638 2.638 0 0 1 3.73 3.73" vector-effect="non-scaling-stroke"/>
+        <path id="Shape" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m15.569 15.505 1.94-1.94c.433-.432 1.022-1.024 1.455-1.457a5.31 5.31 0 1 0-7.452-7.45c-.432.43-1.023 1.024-1.455 1.454l-1.94 1.941" vector-effect="non-scaling-stroke"/>
+        <path id="Shape_2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.048 17.508a5.37 5.37 0 0 0 1.188 1.878 5.38 5.38 0 0 0 6.217.92c.665-.344 1.176-.863 1.72-1.405l1.455-1.456 1.94-1.94-7.452-7.452-1.94 1.94c-.433.431-1.022 1.024-1.455 1.455-.554.553-1.064 1.055-1.408 1.72a5.371 5.371 0 0 0-.265 4.34Z" vector-effect="non-scaling-stroke"/>
+        <path id="Shape_3" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11.642 8.267s1.38-1.4 1.711-1.73l.51-.51a2.638 2.638 0 0 1 3.73 3.73" vector-effect="non-scaling-stroke"/>
       </g>
     </symbol>
     <symbol id="pin" fill="none" viewBox="0 0 24 24">
       <g id="pin">
         <g id="Shape">
-          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m17.567 16.752-5.568 5.58-5.568-5.58a9.527 9.527 0 0 1-2.783-6.73 8.35 8.35 0 1 1 16.702 0 9.53 9.53 0 0 1-2.783 6.73Z" vector-effect="non-scaling-stroke"/>
-          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12.009 12.99a3.342 3.342 0 1 0 0-6.684 3.342 3.342 0 0 0 0 6.685Z" vector-effect="non-scaling-stroke"/>
+          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.568 16.752 12 22.332l-5.568-5.58a9.527 9.527 0 0 1-2.783-6.73 8.35 8.35 0 1 1 16.702 0 9.53 9.53 0 0 1-2.783 6.73Z" vector-effect="non-scaling-stroke"/>
+          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12.01 12.99a3.342 3.342 0 1 0 0-6.683 3.342 3.342 0 0 0 0 6.684Z" vector-effect="non-scaling-stroke"/>
         </g>
       </g>
     </symbol>
@@ -841,7 +841,7 @@
     </symbol>
     <symbol id="security" fill="none" viewBox="0 0 24 24">
       <g id="security">
-        <path id="Shape" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.395 11.143a10.856 10.856 0 0 1-8.4 10.3 10.856 10.856 0 0 1-8.4-10.3v-4.13a2.1 2.1 0 0 1 1.3-1.943l5.247-2.146a4.87 4.87 0 0 1 3.688 0l5.246 2.146a2.102 2.102 0 0 1 1.3 1.943l.018 4.13Z" vector-effect="non-scaling-stroke"/>
+        <path id="Shape" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.396 11.143a10.856 10.856 0 0 1-8.4 10.3 10.856 10.856 0 0 1-8.4-10.3v-4.13a2.1 2.1 0 0 1 1.3-1.943l5.247-2.146a4.87 4.87 0 0 1 3.688 0l5.247 2.146a2.1 2.1 0 0 1 1.3 1.943l.018 4.13Z" vector-effect="non-scaling-stroke"/>
       </g>
     </symbol>
     <symbol id="security-heart" fill="none" viewBox="0 0 24 24">
@@ -940,7 +940,7 @@
     </symbol>
     <symbol id="trash" fill="none" viewBox="0 0 24 24">
       <g id="trash">
-        <path id="Shape" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.388 6.144V3.87h5.222v2.274m-10.7 0h16.18m-3.182 13.99H7.08L5.841 6.14h12.305l-1.238 13.994Z" vector-effect="non-scaling-stroke"/>
+        <path id="Shape" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.389 6.144V3.87h5.222v2.274m-10.701 0h16.18m-3.181 13.99H7.08L5.84 6.14h12.305L16.91 20.134Z" vector-effect="non-scaling-stroke"/>
       </g>
     </symbol>
     <symbol id="unlink" fill="none" viewBox="0 0 24 24">
@@ -1046,8 +1046,8 @@
     </symbol>
     <symbol id="security-filled" fill="none" viewBox="0 0 24 24">
       <g id="security-filled">
-        <path id="Shape" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.395 11.143a10.856 10.856 0 0 1-8.4 10.3 10.856 10.856 0 0 1-8.4-10.3v-4.13a2.1 2.1 0 0 1 1.3-1.943l5.247-2.146a4.87 4.87 0 0 1 3.688 0l5.246 2.146a2.102 2.102 0 0 1 1.3 1.943l.018 4.13Z" vector-effect="non-scaling-stroke"/>
-        <path id="Shape_2" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12.003 21.445a10.857 10.857 0 0 1-8.4-10.301v-4.14a2.093 2.093 0 0 1 1.305-1.94l5.247-2.15a4.89 4.89 0 0 1 1.848-.358c.172 0 .34.008.5.023v18.735a6.935 6.935 0 0 1-.5.125v.006Z" vector-effect="non-scaling-stroke"/>
+        <path id="Shape" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.396 11.143a10.856 10.856 0 0 1-8.4 10.3 10.856 10.856 0 0 1-8.4-10.3v-4.13a2.1 2.1 0 0 1 1.3-1.943l5.247-2.146a4.87 4.87 0 0 1 3.688 0l5.247 2.146a2.1 2.1 0 0 1 1.3 1.943l.018 4.13Z" vector-effect="non-scaling-stroke"/>
+        <path id="Shape_2" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12.004 21.445a10.857 10.857 0 0 1-8.4-10.301v-4.14a2.093 2.093 0 0 1 1.305-1.94l5.247-2.15a4.89 4.89 0 0 1 1.848-.358c.172 0 .34.008.5.023v18.735a6.935 6.935 0 0 1-.5.125v.006Z" vector-effect="non-scaling-stroke"/>
       </g>
     </symbol>
     <symbol id="relation-filled" fill="none" viewBox="0 0 24 24">
@@ -1160,6 +1160,17 @@
       <g id="affiliate-filled">
         <path id="Shape" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11.75 13.608c-1.93 0-3.5-1.52-3.5-3.4v-1.88c0-.39.28-.73.68-.82l4.3-.87c1.04-.21 2.02.56 2.02 1.6v1.97c0 1.88-1.57 3.4-3.5 3.4Z" vector-effect="non-scaling-stroke"/>
         <path id="Shape_2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 20.178v-1.51c0-1.38-.98-2.58-2.35-2.85l-3.21-.69-3.44 3.79m0 0-3.44-3.79-3.21.69A2.912 2.912 0 0 0 3 18.669v1.51m9-1.26v2.08m-6.42-8.96v-2.9c0-3.39 2.76-6.14 6.17-6.14s6.17 2.75 6.17 6.14v2.9m-.31 8.39h-2.14" vector-effect="non-scaling-stroke"/>
+      </g>
+    </symbol>
+    <symbol id="info" fill="none" viewBox="0 0 24 24">
+      <g id="info">
+        <path id="icon" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 17.401v-6.9m0-3.75v-.75" vector-effect="non-scaling-stroke"/>
+      </g>
+    </symbol>
+    <symbol id="minus" fill="none" viewBox="0 0 24 24">
+      <g id="minus">
+        <circle id="base_color" cx="12" cy="12.002" r="12" fill="#fff"/>
+        <path id="icon" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7.8 12.002h8.4" vector-effect="non-scaling-stroke"/>
       </g>
     </symbol>
   </defs>
