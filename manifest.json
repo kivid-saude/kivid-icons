@@ -1,21 +1,85 @@
 {
-  "add": {
+  "doc-heart": {
     "width": 24,
     "height": 24
   },
-  "add-circle": {
+  "bars": {
     "width": 24,
     "height": 24
   },
-  "add-rect": {
+  "calendar-clear": {
     "width": 24,
     "height": 24
   },
-  "add-rect-dot": {
+  "heart": {
     "width": 24,
     "height": 24
   },
-  "affiliate": {
+  "security": {
+    "width": 24,
+    "height": 24
+  },
+  "person-circle": {
+    "width": 24,
+    "height": 24
+  },
+  "note": {
+    "width": 24,
+    "height": 24
+  },
+  "chatbubble-ellipses": {
+    "width": 24,
+    "height": 24
+  },
+  "family": {
+    "width": 24,
+    "height": 24
+  },
+  "stethoscope": {
+    "width": 24,
+    "height": 24
+  },
+  "doc-image-exam": {
+    "width": 24,
+    "height": 24
+  },
+  "doc-lab-exam": {
+    "width": 24,
+    "height": 24
+  },
+  "doc-cardiac-exam": {
+    "width": 24,
+    "height": 24
+  },
+  "pill": {
+    "width": 24,
+    "height": 24
+  },
+  "resultadoexames": {
+    "width": 24,
+    "height": 24
+  },
+  "pin": {
+    "width": 24,
+    "height": 24
+  },
+  "pin-check": {
+    "width": 24,
+    "height": 24
+  },
+  "pin-close": {
+    "width": 24,
+    "height": 24
+  },
+  "pin-alert": {
+    "width": 24,
+    "height": 24
+  },
+  "clock": {
+    "width": 24,
+    "height": 24
+  },
+  "calendar-stripe": {
     "width": 24,
     "height": 24
   },
@@ -23,11 +87,63 @@
     "width": 24,
     "height": 24
   },
-  "notification": {
+  "close-circle": {
     "width": 24,
     "height": 24
   },
-  "arrow-curve": {
+  "check-circle": {
+    "width": 24,
+    "height": 24
+  },
+  "add-circle": {
+    "width": 24,
+    "height": 24
+  },
+  "pay-circle": {
+    "width": 24,
+    "height": 24
+  },
+  "help-circle": {
+    "width": 24,
+    "height": 24
+  },
+  "calendar-arrow-right": {
+    "width": 24,
+    "height": 24
+  },
+  "calendar": {
+    "width": 24,
+    "height": 24
+  },
+  "search": {
+    "width": 24,
+    "height": 24
+  },
+  "refresh": {
+    "width": 24,
+    "height": 24
+  },
+  "ellipsis": {
+    "width": 24,
+    "height": 24
+  },
+  "chevron-righ": {
+    "width": 24,
+    "height": 24
+  },
+  "chevron-left": {
+    "width": 24,
+    "height": 24
+  },
+  "chevron-down": {
+    "width": 24,
+    "height": 24
+  },
+  "chevron-up": {
+    "width": 24,
+    "height": 24
+  },
+  "arrow-up": {
     "width": 24,
     "height": 24
   },
@@ -43,263 +159,7 @@
     "width": 24,
     "height": 24
   },
-  "arrow-right-rect": {
-    "width": 24,
-    "height": 24
-  },
-  "arrow-up": {
-    "width": 24,
-    "height": 24
-  },
-  "attach": {
-    "width": 24,
-    "height": 24
-  },
-  "bag": {
-    "width": 24,
-    "height": 24
-  },
-  "bars": {
-    "width": 24,
-    "height": 24
-  },
-  "biometry": {
-    "width": 24,
-    "height": 24
-  },
-  "book": {
-    "width": 24,
-    "height": 24
-  },
-  "building": {
-    "width": 24,
-    "height": 24
-  },
-  "bulb": {
-    "width": 26,
-    "height": 25
-  },
-  "calendar": {
-    "width": 24,
-    "height": 24
-  },
-  "calendar-arrow-right": {
-    "width": 24,
-    "height": 24
-  },
-  "calendar-clear": {
-    "width": 24,
-    "height": 24
-  },
-  "calendar-stripe": {
-    "width": 24,
-    "height": 24
-  },
-  "card-add": {
-    "width": 24,
-    "height": 24
-  },
-  "card-arrow-right": {
-    "width": 24,
-    "height": 24
-  },
-  "card-check": {
-    "width": 24,
-    "height": 24
-  },
-  "card-close": {
-    "width": 24,
-    "height": 24
-  },
-  "cellphone": {
-    "width": 24,
-    "height": 24
-  },
-  "chart": {
-    "width": 24,
-    "height": 24
-  },
   "chatbox-ellipses": {
-    "width": 24,
-    "height": 24
-  },
-  "chatbubble-ellipses": {
-    "width": 24,
-    "height": 24
-  },
-  "check": {
-    "width": 24,
-    "height": 24
-  },
-  "check-circle": {
-    "width": 24,
-    "height": 24
-  },
-  "chevron-down": {
-    "width": 24,
-    "height": 24
-  },
-  "chevron-left": {
-    "width": 24,
-    "height": 24
-  },
-  "chevron-right": {
-    "width": 24,
-    "height": 24
-  },
-  "chevron-up": {
-    "width": 24,
-    "height": 24
-  },
-  "clipboard-check": {
-    "width": 24,
-    "height": 24
-  },
-  "clock": {
-    "width": 24,
-    "height": 24
-  },
-  "clock-back": {
-    "width": 24,
-    "height": 24
-  },
-  "close": {
-    "width": 24,
-    "height": 24
-  },
-  "close-circle": {
-    "width": 24,
-    "height": 24
-  },
-  "compass": {
-    "width": 24,
-    "height": 24
-  },
-  "connect": {
-    "width": 24,
-    "height": 24
-  },
-  "copy": {
-    "width": 24,
-    "height": 24
-  },
-  "coupon-check": {
-    "width": 24,
-    "height": 24
-  },
-  "coupon-discount": {
-    "width": 24,
-    "height": 24
-  },
-  "coupon-pay": {
-    "width": 24,
-    "height": 24
-  },
-  "coupon-return": {
-    "width": 24,
-    "height": 24
-  },
-  "coupon-stripe": {
-    "width": 24,
-    "height": 24
-  },
-  "dictionary": {
-    "width": 24,
-    "height": 24
-  },
-  "doc-barcode": {
-    "width": 24,
-    "height": 24
-  },
-  "doc-budget": {
-    "width": 24,
-    "height": 24
-  },
-  "doc-cardiac-exam": {
-    "width": 24,
-    "height": 24
-  },
-  "doc-clock": {
-    "width": 24,
-    "height": 24
-  },
-  "doc-health-stripe": {
-    "width": 24,
-    "height": 24
-  },
-  "doc-heart": {
-    "width": 24,
-    "height": 24
-  },
-  "doc-image-exam": {
-    "width": 24,
-    "height": 24
-  },
-  "doc-invisible": {
-    "width": 24,
-    "height": 24
-  },
-  "doc-lab-exam": {
-    "width": 24,
-    "height": 24
-  },
-  "doc-list": {
-    "width": 24,
-    "height": 24
-  },
-  "doc-scan": {
-    "width": 24,
-    "height": 24
-  },
-  "doc-write": {
-    "width": 24,
-    "height": 24
-  },
-  "document-not": {
-    "width": 24,
-    "height": 24
-  },
-  "documents": {
-    "width": 24,
-    "height": 24
-  },
-  "download": {
-    "width": 24,
-    "height": 24
-  },
-  "dropdown": {
-    "width": 24,
-    "height": 24
-  },
-  "edit": {
-    "width": 24,
-    "height": 24
-  },
-  "ellipsis": {
-    "width": 24,
-    "height": 24
-  },
-  "exit": {
-    "width": 24,
-    "height": 24
-  },
-  "eye": {
-    "width": 24,
-    "height": 24
-  },
-  "eye-check": {
-    "width": 24,
-    "height": 24
-  },
-  "eye-off": {
-    "width": 24,
-    "height": 24
-  },
-  "family": {
-    "width": 24,
-    "height": 24
-  },
-  "file": {
     "width": 24,
     "height": 24
   },
@@ -307,43 +167,31 @@
     "width": 24,
     "height": 24
   },
-  "fruit": {
+  "star": {
     "width": 24,
     "height": 24
   },
-  "hand-heart": {
+  "play": {
     "width": 24,
     "height": 24
   },
-  "headset": {
+  "pause": {
     "width": 24,
     "height": 24
   },
-  "health-circle": {
+  "share": {
     "width": 24,
     "height": 24
   },
-  "heart": {
+  "edit": {
     "width": 24,
     "height": 24
   },
-  "heart-check": {
+  "eye": {
     "width": 24,
     "height": 24
   },
-  "help-balloon": {
-    "width": 24,
-    "height": 24
-  },
-  "help-circle": {
-    "width": 24,
-    "height": 24
-  },
-  "key": {
-    "width": 24,
-    "height": 24
-  },
-  "link": {
+  "eye-off": {
     "width": 24,
     "height": 24
   },
@@ -355,75 +203,19 @@
     "width": 24,
     "height": 24
   },
-  "logo-instagram": {
+  "key": {
     "width": 24,
     "height": 24
   },
-  "logo-kivid": {
+  "photo-camera": {
     "width": 24,
     "height": 24
   },
-  "logo-store-google": {
+  "video": {
     "width": 24,
     "height": 24
   },
-  "mail": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-balance": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-blood": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-blood-type": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-female-silhouette": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-glucose": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-height": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-hormone": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-hourglass": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-kidney": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-liver": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-male-silhouette": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-thyroid": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-vaccine": {
-    "width": 24,
-    "height": 24
-  },
-  "marker-virus": {
+  "video-off": {
     "width": 24,
     "height": 24
   },
@@ -435,27 +227,47 @@
     "width": 24,
     "height": 24
   },
+  "bulb": {
+    "width": 26,
+    "height": 25
+  },
+  "headset": {
+    "width": 24,
+    "height": 24
+  },
   "money": {
     "width": 24,
     "height": 24
   },
-  "note": {
+  "card-check": {
     "width": 24,
     "height": 24
   },
-  "pause": {
+  "card-add": {
     "width": 24,
     "height": 24
   },
-  "pay-circle": {
+  "card-close": {
     "width": 24,
     "height": 24
   },
-  "people": {
+  "doc-barcode": {
     "width": 24,
     "height": 24
   },
-  "people-credential": {
+  "doc-scan": {
+    "width": 24,
+    "height": 24
+  },
+  "doc-invisible": {
+    "width": 24,
+    "height": 24
+  },
+  "reload-cash": {
+    "width": 24,
+    "height": 24
+  },
+  "pix": {
     "width": 24,
     "height": 24
   },
@@ -463,19 +275,7 @@
     "width": 24,
     "height": 24
   },
-  "person-arrow-left": {
-    "width": 24,
-    "height": 24
-  },
-  "person-arrow-right": {
-    "width": 24,
-    "height": 24
-  },
-  "person-blazon": {
-    "width": 24,
-    "height": 24
-  },
-  "person-block": {
+  "person-frame": {
     "width": 24,
     "height": 24
   },
@@ -483,31 +283,115 @@
     "width": 24,
     "height": 24
   },
-  "person-circle": {
+  "building": {
     "width": 24,
     "height": 24
   },
-  "person-doc": {
+  "arrow-right-rect": {
     "width": 24,
     "height": 24
   },
-  "person-frame": {
+  "marker-glucose": {
     "width": 24,
     "height": 24
   },
-  "person-invite": {
+  "marker-female-silhouette": {
     "width": 24,
     "height": 24
   },
-  "person-rect": {
+  "marker-male-silhouette": {
     "width": 24,
     "height": 24
   },
-  "person-return": {
+  "dropdown": {
     "width": 24,
     "height": 24
   },
-  "person-substract": {
+  "marker-height": {
+    "width": 24,
+    "height": 24
+  },
+  "marker-balance": {
+    "width": 24,
+    "height": 24
+  },
+  "marker-vaccine": {
+    "width": 24,
+    "height": 24
+  },
+  "marker-liver": {
+    "width": 24,
+    "height": 24
+  },
+  "marker-thyroid": {
+    "width": 24,
+    "height": 24
+  },
+  "marker-blood": {
+    "width": 24,
+    "height": 24
+  },
+  "marker-kidney": {
+    "width": 24,
+    "height": 24
+  },
+  "marker-virus": {
+    "width": 24,
+    "height": 24
+  },
+  "marker-hormone": {
+    "width": 24,
+    "height": 24
+  },
+  "marker-hourglass": {
+    "width": 24,
+    "height": 24
+  },
+  "marker-blood-type": {
+    "width": 24,
+    "height": 24
+  },
+  "fruit": {
+    "width": 24,
+    "height": 24
+  },
+  "trash": {
+    "width": 24,
+    "height": 24
+  },
+  "security-heart": {
+    "width": 24,
+    "height": 24
+  },
+  "search heart": {
+    "width": 24,
+    "height": 24
+  },
+  "sort": {
+    "width": 24,
+    "height": 24
+  },
+  "reload-heart": {
+    "width": 24,
+    "height": 24
+  },
+  "unlink": {
+    "width": 24,
+    "height": 24
+  },
+  "link": {
+    "width": 24,
+    "height": 24
+  },
+  "shield-check": {
+    "width": 24,
+    "height": 24
+  },
+  "coupon-stripe": {
+    "width": 24,
+    "height": 24
+  },
+  "documents": {
     "width": 24,
     "height": 24
   },
@@ -519,6 +403,10 @@
     "width": 24,
     "height": 24
   },
+  "photo-center": {
+    "width": 24,
+    "height": 24
+  },
   "photo-axis": {
     "width": 24,
     "height": 24
@@ -527,59 +415,39 @@
     "width": 24,
     "height": 24
   },
-  "photo-camera": {
+  "person-invite": {
     "width": 24,
     "height": 24
   },
-  "photo-center": {
+  "person-doc": {
     "width": 24,
     "height": 24
   },
-  "pill": {
+  "send": {
     "width": 24,
     "height": 24
   },
-  "pin": {
+  "notification": {
     "width": 24,
     "height": 24
   },
-  "pin-alert": {
+  "people": {
     "width": 24,
     "height": 24
   },
-  "pin-check": {
+  "add-rect-dot": {
     "width": 24,
     "height": 24
   },
-  "pin-close": {
+  "bag": {
     "width": 24,
     "height": 24
   },
-  "pin-route": {
+  "heart-check": {
     "width": 24,
     "height": 24
   },
-  "pix": {
-    "width": 24,
-    "height": 24
-  },
-  "play": {
-    "width": 24,
-    "height": 24
-  },
-  "pricetag": {
-    "width": 24,
-    "height": 24
-  },
-  "print": {
-    "width": 24,
-    "height": 24
-  },
-  "professional": {
-    "width": 24,
-    "height": 24
-  },
-  "refresh": {
+  "clipboard-check": {
     "width": 24,
     "height": 24
   },
@@ -587,43 +455,47 @@
     "width": 24,
     "height": 24
   },
-  "reload": {
+  "pin-route": {
     "width": 24,
     "height": 24
   },
-  "reload-cash": {
+  "compass": {
     "width": 24,
     "height": 24
   },
-  "reload-heart": {
+  "transfer": {
     "width": 24,
     "height": 24
   },
-  "resultadoexames": {
+  "add-rect": {
     "width": 24,
     "height": 24
   },
-  "seal-certified": {
+  "clock-back": {
     "width": 24,
     "height": 24
   },
-  "search": {
+  "attach": {
     "width": 24,
     "height": 24
   },
-  "search-heart": {
+  "doc-write": {
     "width": 24,
     "height": 24
   },
-  "security": {
+  "social-whatsapp": {
     "width": 24,
     "height": 24
   },
-  "security-heart": {
+  "logo-instagram": {
     "width": 24,
     "height": 24
   },
-  "send": {
+  "social-facebook": {
+    "width": 24,
+    "height": 24
+  },
+  "social-youtube": {
     "width": 24,
     "height": 24
   },
@@ -635,35 +507,187 @@
     "width": 24,
     "height": 24
   },
-  "share": {
+  "mail": {
     "width": 24,
     "height": 24
   },
-  "shield-check": {
+  "cellphone": {
     "width": 24,
     "height": 24
   },
-  "social-facebook": {
+  "doc-clock": {
     "width": 24,
     "height": 24
   },
-  "social-whatsapp": {
+  "book": {
     "width": 24,
     "height": 24
   },
-  "social-youtube": {
+  "file": {
     "width": 24,
     "height": 24
   },
-  "sort": {
+  "health-circle": {
     "width": 24,
     "height": 24
   },
-  "star": {
+  "person-substract": {
     "width": 24,
     "height": 24
   },
-  "stethoscope": {
+  "person-return": {
+    "width": 24,
+    "height": 24
+  },
+  "person-block": {
+    "width": 24,
+    "height": 24
+  },
+  "person-blazon": {
+    "width": 24,
+    "height": 24
+  },
+  "person-arrow-right": {
+    "width": 24,
+    "height": 24
+  },
+  "person-arrow-left": {
+    "width": 24,
+    "height": 24
+  },
+  "doc-list": {
+    "width": 24,
+    "height": 24
+  },
+  "exit": {
+    "width": 24,
+    "height": 24
+  },
+  "close": {
+    "width": 24,
+    "height": 24
+  },
+  "add": {
+    "width": 24,
+    "height": 24
+  },
+  "check": {
+    "width": 24,
+    "height": 24
+  },
+  "document-not": {
+    "width": 24,
+    "height": 24
+  },
+  "download": {
+    "width": 24,
+    "height": 24
+  },
+  "arrow-curve": {
+    "width": 24,
+    "height": 24
+  },
+  "doc-budget": {
+    "width": 24,
+    "height": 24
+  },
+  "help-balloon": {
+    "width": 24,
+    "height": 24
+  },
+  "dictionary": {
+    "width": 24,
+    "height": 24
+  },
+  "logo-kivid": {
+    "width": 24,
+    "height": 24
+  },
+  "bars-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "calendar-clear-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "heart-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "person-circle-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "note-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "star-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "family-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "heart-check-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "chatbubble-ellipses-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "clipboard-check-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "relation-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "security-heart-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "search-heart-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "doc-list-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "alert-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "person-blazon-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "pill-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "bulb-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "chatbox-ellipses-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "security-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "person-rect": {
+    "width": 24,
+    "height": 24
+  },
+  "person-rect-filled": {
     "width": 24,
     "height": 24
   },
@@ -671,15 +695,59 @@
     "width": 24,
     "height": 24
   },
+  "logo-store-google": {
+    "width": 24,
+    "height": 24
+  },
+  "biometry": {
+    "width": 24,
+    "height": 24
+  },
+  "copy": {
+    "width": 24,
+    "height": 24
+  },
+  "connect": {
+    "width": 24,
+    "height": 24
+  },
+  "print": {
+    "width": 24,
+    "height": 24
+  },
+  "pay-circle-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "people-credential": {
+    "width": 24,
+    "height": 24
+  },
+  "people-credential-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "chart": {
+    "width": 24,
+    "height": 24
+  },
+  "chart-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "doc-health-stripe": {
+    "width": 24,
+    "height": 24
+  },
+  "seal-certified": {
+    "width": 24,
+    "height": 24
+  },
   "ticket-check": {
     "width": 24,
     "height": 24
   },
-  "ticket-pay": {
-    "width": 24,
-    "height": 24
-  },
-  "ticket-return": {
+  "coupon-check": {
     "width": 24,
     "height": 24
   },
@@ -687,23 +755,63 @@
     "width": 24,
     "height": 24
   },
-  "transfer": {
+  "coupon-return": {
     "width": 24,
     "height": 24
   },
-  "trash": {
+  "ticket-pay": {
     "width": 24,
     "height": 24
   },
-  "unlink": {
+  "coupon-pay": {
     "width": 24,
     "height": 24
   },
-  "video": {
+  "pricetag": {
     "width": 24,
     "height": 24
   },
-  "video-off": {
+  "ticket-return": {
+    "width": 24,
+    "height": 24
+  },
+  "coupon-discount": {
+    "width": 24,
+    "height": 24
+  },
+  "reload": {
+    "width": 24,
+    "height": 24
+  },
+  "card-arrow-right": {
+    "width": 24,
+    "height": 24
+  },
+  "hand-heart": {
+    "width": 24,
+    "height": 24
+  },
+  "hand-heart-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "building-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "professional": {
+    "width": 24,
+    "height": 24
+  },
+  "affiliate": {
+    "width": 24,
+    "height": 24
+  },
+  "professional-filled": {
+    "width": 24,
+    "height": 24
+  },
+  "affiliate-filled": {
     "width": 24,
     "height": 24
   },
@@ -719,27 +827,7 @@
     "width": 24,
     "height": 24
   },
-  "documents-file-excel": {
-    "width": 24,
-    "height": 24
-  },
-  "search-heart-filled": {
-    "width": 24,
-    "height": 24
-  },
-  "pay-circle-filled": {
-    "width": 24,
-    "height": 24
-  },
-  "bars-filled": {
-    "width": 24,
-    "height": 24
-  },
-  "check-circle-filled": {
-    "width": 24,
-    "height": 24
-  },
-  "people-filled": {
+  "excel": {
     "width": 24,
     "height": 24
   },
@@ -747,87 +835,59 @@
     "width": 24,
     "height": 24
   },
-  "star-filled": {
+  "people-filled": {
     "width": 24,
     "height": 24
   },
-  "security-heart-filled": {
+  "reorder-down": {
     "width": 24,
     "height": 24
   },
-  "security-filled": {
+  "reorder-up": {
     "width": 24,
     "height": 24
   },
-  "relation-filled": {
+  "filter-down-arrow": {
     "width": 24,
     "height": 24
   },
-  "note-filled": {
+  "filter-up-arrow": {
     "width": 24,
     "height": 24
   },
-  "heart-filled": {
+  "add-money": {
     "width": 24,
     "height": 24
   },
-  "heart-check-filled": {
+  "invoice": {
     "width": 24,
     "height": 24
   },
-  "hand-heart-filled": {
+  "log": {
     "width": 24,
     "height": 24
   },
-  "family-filled": {
+  "upload": {
     "width": 24,
     "height": 24
   },
-  "doc-list-filled": {
+  "image-error": {
     "width": 24,
     "height": 24
   },
-  "clipboard-check-filled": {
+  "image": {
     "width": 24,
     "height": 24
   },
-  "chatbubble-ellipses-filled": {
+  "passaport": {
     "width": 24,
     "height": 24
   },
-  "chatbox-ellipses-filled": {
+  "telemedicine": {
     "width": 24,
     "height": 24
   },
-  "chart-filled": {
-    "width": 24,
-    "height": 24
-  },
-  "calendar-clear-filled": {
-    "width": 24,
-    "height": 24
-  },
-  "bulb-filled": {
-    "width": 24,
-    "height": 24
-  },
-  "building-filled": {
-    "width": 24,
-    "height": 24
-  },
-  "alert-filled": {
-    "width": 24,
-    "height": 24
-  },
-  "affiliate-filled": {
-    "width": 24,
-    "height": 24
-  },
-  "info": {
-    "width": 24,
-    "height": 24
-  },
-  "minus": {
+  "procedure": {
     "width": 24,
     "height": 24
   }
