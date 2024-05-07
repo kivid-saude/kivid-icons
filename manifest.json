@@ -127,7 +127,7 @@
     "width": 24,
     "height": 24
   },
-  "chevron-righ": {
+  "chevron-right": {
     "width": 24,
     "height": 24
   },
@@ -880,15 +880,15 @@
     "height": 24
   },
   "passaport": {
-    "width": 24,
-    "height": 24
+    "width": 26,
+    "height": 26
   },
   "telemedicine": {
     "width": 24,
     "height": 24
   },
   "procedure": {
-    "width": 24,
-    "height": 24
+    "width": 26,
+    "height": 26
   }
 }
