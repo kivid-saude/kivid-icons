@@ -890,5 +890,25 @@
   "procedure": {
     "width": 26,
     "height": 26
+  },
+
+  "pictogram-success": {
+    "width": 24,
+    "height": 24
+  },
+
+  "pictogram-close": {
+    "width": 24,
+    "height": 24
+  },
+
+  "pictogram-warning": {
+    "width": 24,
+    "height": 24
+  },
+
+  "pictogram-plus": {
+    "width": 24,
+    "height": 24
   }
 }
